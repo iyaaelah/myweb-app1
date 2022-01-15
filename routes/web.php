@@ -20,3 +20,4 @@ Route::get('/dashboard', [App\Http\Controllers\DashboardController::class, 'inde
 Auth::routes();
 
 Route::resource('experiences', App\Http\controllers\ExperienceController::class)->middleware('auth');
+Route::resource('portofolios', App\Http\controllers\PortofolioController::class)->middleware('auth');
