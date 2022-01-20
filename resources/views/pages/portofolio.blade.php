@@ -1,7 +1,7 @@
 <!-- Portfolio Section -->
-<section id="portfolio" class="py-5">
+<section id="navportofolio" class="py-5">
     <!-- Page Content -->
-    <h3 class="text-center title-section"><strong>PORTFOLIO</strong></h3>
+    <h3 class="text-center title-section"><strong>PORTOFOLIO</strong></h3>
       <p class="text-center font-weight-light mb-5"><small>SELECTED LATEST WORKS</small></p>
     <div class="container">
         <div class="row">

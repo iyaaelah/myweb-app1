@@ -1,3 +1,4 @@
+<section id="navhome">
 <header class="masthead">
     <div class="container">
       <div class="row align-items-center row-title">
@@ -7,8 +8,9 @@
         </div>
         <div class="col-sm-9 text-center" data-aos="fade-up" data-aos-duration="1500">
             <div class="my-name">Hi, I'm <strong>Rifqi</strong></div>
-            <div class="caption">Mahasiswa TI Gunadarma</div>
+            <div class="caption">Saya Mahasiswa TI Universitas Gunadarma</div>
         </div>
       </div>
     </div>
   </header>
+</section>
